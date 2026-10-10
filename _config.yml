@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: La Figlia del Telegrafista
+title: La Figlia del Telegrafista e Io
 email: jjcs227@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Questo progetto e una via di mezzo tra un blog o un libro, oltre che un piccolo esercizio di scrittura in italiano. Sto studiando la lingua in vista della domanda di cittadinanza, anche sela trovo ipegantiva. Ho intenzione di pubblicare un nuovo post ogni settimana. ho scelto il titolo "La figlia del telegrafista" perche si tratta di una storia che mi sta molto a cuore: quella di una donna nata all'inizio del Novecento. Spero che vi piaccia. 
+  Questo progetto e una via di mezzo tra un blog o un libro, oltre che un piccolo esercizio di scrittura in italiano. Sto studiando la lingua in vista della domanda di cittadinanza, anche sela trovo ipegantiva. Ho intenzione di pubblicare un nuovo post ogni settimana. ho scelto il titolo "La figlia del telegrafista e Io" perche si tratta di una storia che mi sta molto a cuore: quella di una donna nata all'inizio del Novecento. Spero che vi piaccia. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jjcs
